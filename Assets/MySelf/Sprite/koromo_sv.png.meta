@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: 76960fca811984e3c8a2925cb4a93575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3620203149799129553
+    second: koromo_sv_0
+  - first:
+      213: 2850644556551242703
+    second: koromo_sv_1
+  - first:
+      213: 2578954125707906784
+    second: koromo_sv_2
+  - first:
+      213: 3252522485584242884
+    second: koromo_sv_3
+  - first:
+      213: -6731667253582242115
+    second: koromo_sv_4
+  - first:
+      213: -5252314572749226777
+    second: koromo_sv_5
+  - first:
+      213: 863224124420954508
+    second: koromo_sv_6
+  - first:
+      213: -1652751588970640700
+    second: koromo_sv_7
+  - first:
+      213: 4838616710818818997
+    second: koromo_sv_8
+  - first:
+      213: -4221086784239818188
+    second: koromo_sv_9
+  - first:
+      213: 408123528728980973
+    second: koromo_sv_10
+  - first:
+      213: 4634709615173600390
+    second: koromo_sv_11
+  - first:
+      213: -2355429557019242910
+    second: koromo_sv_12
+  - first:
+      213: -2608099036374676038
+    second: koromo_sv_13
+  - first:
+      213: -1623177400158049861
+    second: koromo_sv_14
+  - first:
+      213: -2858951192752993177
+    second: koromo_sv_15
+  - first:
+      213: -6770902865564098766
+    second: koromo_sv_16
+  - first:
+      213: 7111810012386436119
+    second: koromo_sv_17
+  - first:
+      213: 4906257428739427923
+    second: koromo_sv_18
+  - first:
+      213: 5319299969383471527
+    second: koromo_sv_19
+  - first:
+      213: 8328048801685518427
+    second: koromo_sv_20
+  - first:
+      213: 8301871480628331504
+    second: koromo_sv_21
+  - first:
+      213: 6989082694246010287
+    second: koromo_sv_22
+  - first:
+      213: 8774367296823836136
+    second: koromo_sv_23
+  - first:
+      213: -4802669481164373195
+    second: koromo_sv_24
+  - first:
+      213: -8622020621412220444
+    second: koromo_sv_25
+  - first:
+      213: -5706459134201411513
+    second: koromo_sv_26
+  - first:
+      213: -4572708917338975296
+    second: koromo_sv_27
+  - first:
+      213: -2857613821599051517
+    second: koromo_sv_28
+  - first:
+      213: 3925526308909116353
+    second: koromo_sv_29
+  - first:
+      213: 3849314709342368586
+    second: koromo_sv_30
+  - first:
+      213: 8010870252434352313
+    second: koromo_sv_31
+  - first:
+      213: 6761612417707025242
+    second: koromo_sv_32
+  - first:
+      213: -62615984349854441
+    second: koromo_sv_33
+  - first:
+      213: 3145277418394335873
+    second: koromo_sv_34
+  - first:
+      213: 6456366220498163863
+    second: koromo_sv_35
+  - first:
+      213: -4458711715077348297
+    second: koromo_sv_36
+  - first:
+      213: -4465581214814297455
+    second: koromo_sv_37
+  - first:
+      213: 6634487949047424781
+    second: koromo_sv_38
+  - first:
+      213: -998524349017840371
+    second: koromo_sv_39
+  - first:
+      213: -3419317158548510251
+    second: koromo_sv_40
+  - first:
+      213: -8223906581055614116
+    second: koromo_sv_41
+  - first:
+      213: 6137231372628831393
+    second: koromo_sv_42
+  - first:
+      213: 6714714548786943651
+    second: koromo_sv_43
+  - first:
+      213: -8803336058162797250
+    second: koromo_sv_44
+  - first:
+      213: 8248913584085167932
+    second: koromo_sv_45
+  - first:
+      213: 7500094271940207346
+    second: koromo_sv_46
+  - first:
+      213: 6589188619135259524
+    second: koromo_sv_47
+  - first:
+      213: 7504151157191930284
+    second: koromo_sv_48
+  - first:
+      213: 1343888981732010931
+    second: koromo_sv_49
+  - first:
+      213: 7116615848537507694
+    second: koromo_sv_50
+  - first:
+      213: 4445005429805261541
+    second: koromo_sv_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: koromo_sv_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 320
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d10786859b8d3230800000000000000
+      internalID: 3620203149799129553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3432eee168f8720800000000000000
+      internalID: 2850644556551242703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee09da0d194ac320800000000000000
+      internalID: 2578954125707906784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 320
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82831d7f7432d20800000000000000
+      internalID: 3252522485584242884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed91c7c405492a0800000000000000
+      internalID: -6731667253582242115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecbcaa59b70c17b0800000000000000
+      internalID: -5252314572749226777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 320
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8998a184c9cafb00800000000000000
+      internalID: 863224124420954508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 320
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca417dbf2f3019e0800000000000000
+      internalID: -1652751588970640700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 320
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbef9c2348362340800000000000000
+      internalID: 4838616710818818997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2a4b1fefab65c0800000000000000
+      internalID: -4221086784239818188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedae52ef22f9a500800000000000000
+      internalID: 408123528728980973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848289d6dbc15040800000000000000
+      internalID: 4634709615173600390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 256
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e89682c45df4fd0800000000000000
+      internalID: -2355429557019242910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 256
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd49d5aebb2ecbd0800000000000000
+      internalID: -2608099036374676038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 256
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9232821c05979e0800000000000000
+      internalID: -1623177400158049861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 256
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c47cd9907f258d0800000000000000
+      internalID: -2858951192752993177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 257
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9061b7bbe802a0800000000000000
+      internalID: -6770902865564098766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 258
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142c5ab68932b260800000000000000
+      internalID: 7111810012386436119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e82a01327861440800000000000000
+      internalID: 4906257428739427923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a919d8a323f1d940800000000000000
+      internalID: 5319299969383471527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b583590e24c239370800000000000000
+      internalID: 8328048801685518427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34ccd502c263370800000000000000
+      internalID: 8301871480628331504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad0d504ea53ef060800000000000000
+      internalID: 6989082694246010287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 192
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3dff5190d4c970800000000000000
+      internalID: 8774367296823836136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 192
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53386917d8d795db0800000000000000
+      internalID: -4802669481164373195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 192
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c1ae1ded685880800000000000000
+      internalID: -8622020621412220444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 192
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74844acc6a59ec0b0800000000000000
+      internalID: -5706459134201411513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3dfb887797a80c0800000000000000
+      internalID: -4572708917338975296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301975a9e57b758d0800000000000000
+      internalID: -2857613821599051517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb6afe21654a7630800000000000000
+      internalID: 3925526308909116353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43b90765538b6530800000000000000
+      internalID: 3849314709342368586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e71a1d045c2f60800000000000000
+      internalID: 8010870252434352313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 128
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a532c4a5ba216dd50800000000000000
+      internalID: 6761612417707025242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c09f081b812ff0800000000000000
+      internalID: -62615984349854441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 128
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ab37bc52546ab20800000000000000
+      internalID: 3145277418394335873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 128
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798df98cede999950800000000000000
+      internalID: 6456366220498163863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73421f281597f12c0800000000000000
+      internalID: -4458711715077348297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19226577b811702c0800000000000000
+      internalID: -4465581214814297455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e49d73af621c50800000000000000
+      internalID: 6634487949047424781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05a63d15678422f0800000000000000
+      internalID: -998524349017840371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9615e19252c80d0800000000000000
+      internalID: -3419317158548510251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53de226980dedd80800000000000000
+      internalID: -8223906581055614116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acacedba63db2550800000000000000
+      internalID: 6137231372628831393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_43
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 64
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6d7985e457f2d50800000000000000
+      internalID: 6714714548786943651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 64
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a1d64f7444d580800000000000000
+      internalID: -8803336058162797250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f6a4a33370a7270800000000000000
+      internalID: 8248913584085167932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f220fcc000b51860800000000000000
+      internalID: 7500094271940207346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839a995320817b50800000000000000
+      internalID: 6589188619135259524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f24108b9142860800000000000000
+      internalID: 7504151157191930284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba2bd98e376a210800000000000000
+      internalID: 1343888981732010931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e674ef6a86c43c260800000000000000
+      internalID: 7116615848537507694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: koromo_sv_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a93443e4dfad30800000000000000
+      internalID: 4445005429805261541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
