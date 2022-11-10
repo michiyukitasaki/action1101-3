@@ -29863,6 +29863,7 @@ GameObject:
   - component: {fileID: 6602324346953730277}
   - component: {fileID: -5433947963382197153}
   - component: {fileID: -7187814121091314899}
+  - component: {fileID: 8133783580873112719}
   m_Layer: 9
   m_Name: Player_Koromo
   m_TagString: Player
@@ -30500,6 +30501,23 @@ MonoBehaviour:
   MinimumFuelRequirement: 0.2
   JetpackRefueledSfx: {fileID: 0}
   JetpackFuelDurationLeft: 0
+--- !u!114 &8133783580873112719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3712176556470555720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ed82f220055de419aad7e7e1832197, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AbilityStartFeedbacks: {fileID: 0}
+  AbilityStopFeedbacks: {fileID: 0}
+  AbilityPermitted: 1
+  BlockingMovementStates: 
+  BlockingConditionStates: 
 --- !u!1 &3713149076788602536
 GameObject:
   m_ObjectHideFlags: 0
