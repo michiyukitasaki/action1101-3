@@ -897,7 +897,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Dying
-  m_Speed: 1
+  m_Speed: 2
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -909,7 +909,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: f1711d9cea0c22d46987e05a4308acb2,
+  m_Motion: {fileID: -203655887218126122, guid: 7e89d8b2e992543d78c452996647b9d5,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
@@ -1558,7 +1558,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: GettingHit
-  m_Speed: 1
+  m_Speed: 2
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -5073961555721496078}
@@ -1571,7 +1571,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 14f4b1a391cb57442ac7e11f94add395,
+  m_Motion: {fileID: -203655887218126122, guid: 94f72a6d5a40f490fab0910605cafda5,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
